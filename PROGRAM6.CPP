@@ -1,5 +1,4 @@
-/*A program to read length and breadth of rectangle, calculate area and
- perimeter and display them.*/
+/*A program to read length and breadth of rectangle, calculate area and perimeter and display them.*/
 
 #include<iostream.h>
 #include<conio.h>
