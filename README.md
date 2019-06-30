@@ -1,4 +1,4 @@
-# Computer-Science functions
+# Computer-Science_functions
 
 This repository contains codes/program written in C++ language. The codes are of all levels, good for practice, to one who is just stepped into the world of programming and also for who is at learning stage.
 
@@ -6,6 +6,6 @@ The list to the questions of the programs is given in the repository in form of 
 
 All programs are error free and are compiled and then executed in MS-Dos Box version-0.74.
 
-# Link for download: https://www.dosbox.com/download.php?main=1
+# Link to download the DosBox: https://www.dosbox.com/download.php?main=1
 
 # For any query or suggestion, contact me through mail: tusharmalhotra494@gmail.com
