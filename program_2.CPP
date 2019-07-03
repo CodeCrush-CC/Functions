@@ -5,23 +5,19 @@
 void main()
 {
  clrscr();
- int a,b,c ;
+ int a,b ;
 
  int sum(int,int);                 //function prototype
 
  cout<<"\nEnter any two numbers:\t" ;
  cin>>a>>b ;
-
- c = sum(a,b) ;                    //calling of function
-
- cout<<"\nSum of Digits:\t"<<c ;
+         
+ cout<<"\nSum of Digits:\t"<<sum(a,b) ;    //calling of function
 
  getche();
 }
 
 int sum(int x, int y)             //function definition
 {
-
  return(x+y) ;
-
 }
